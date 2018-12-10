@@ -33,10 +33,13 @@ Create new post:
 
 New posts will show up in the home screen with user and time stamp:
 
-![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/f.PNG "New Post")
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/f.PNG "Posts")
 
 User can edit or delete their own post:
 
-![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/g.PNG "New Post")
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/g.PNG "Edit Post")
 
+Also supports multi users:
+
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/h.PNG "Edit Post")
 
