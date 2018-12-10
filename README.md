@@ -11,7 +11,7 @@ then:
 
 Flask is a light weight micro-framework for Python web developement. It works intuitively within the context of HTML structure with Python.
 
-This "small" Flask blogging app demostrates modern web developement in a MVC model. Where each func
+This "small" Flask blogging app demostrates modern web developement in a MVC model.
 
 Initial screen should have no posts:
 
