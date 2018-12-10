@@ -19,4 +19,14 @@ Initial screen should have no posts:
 
 User must register:
 
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/b.PNG "Register")
+
+Then log in:
+
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/c.PNG "Log In")
+
+Create new post:
+
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/d.PNG "New Post")
+
 
