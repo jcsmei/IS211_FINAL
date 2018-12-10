@@ -29,4 +29,10 @@ Create new post:
 
 ![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/d.PNG "New Post")
 
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/e.PNG "New Post")
+
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/f.PNG "New Post")
+
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/g.PNG "New Post")
+
 
