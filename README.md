@@ -1,9 +1,9 @@
 # ISS211_FINAL
-PLease run the followng commands before runong the app:
+Please run the followng commands before runong the app:
 
-linux: export FLASK_APP=flaskr
-cmd: set FLASK_APP=flaskr
-PowerSHell: $env:FLASK_APP = "flaskr"
+a. linux: export FLASK_APP=flaskr
+b. cmd: set FLASK_APP=flaskr
+c. PowerSHell: $env:FLASK_APP = "flaskr"
 
 then:
 flask init-db
