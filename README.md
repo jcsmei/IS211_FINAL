@@ -15,5 +15,5 @@ This "small" Flask blogging app demostrates modern web developement in a MVC mod
 
 Initial screen should have no posts:
 
-!(https://github.com/jcsmei/IS211_FINAL/blob/master/img/a.PNG)
+![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/a.PNG "text")
 
