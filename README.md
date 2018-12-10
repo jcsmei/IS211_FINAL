@@ -31,7 +31,11 @@ Create new post:
 
 ![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/e.PNG "New Post")
 
+New posts will show up in the home screen with user and time stamp:
+
 ![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/f.PNG "New Post")
+
+User can edit or delete their own post:
 
 ![](https://github.com/jcsmei/IS211_FINAL/blob/master/img/g.PNG "New Post")
 
